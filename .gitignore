@@ -1,0 +1,10 @@
+# Backend
+backend/target/
+backend/.idea/
+backend/*.iml
+
+# Frontend
+frontend/node_modules/
+
+# Environment Variables
+.env
